@@ -12,10 +12,14 @@ Areas of Interest.
 
 3.  I would like to add a page for macros to automate certain parameters.
 
-4.  I would like an arpeggiator.
+4.  I would like a tab for an arpeggiator.
 
 5.  I would like to add a xy pad automatable matrices.
 
 Feedback is greatly appreciated. Thanks.
 
 Source files available upon request for educational purposes.
+
+VST 2.  Demo.   Put the folder in your vst2folder and fire up your daw of preference.  Scan for the plugin and fire up and instance of the demo synth.
+
+
