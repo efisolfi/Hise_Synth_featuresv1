@@ -8,7 +8,7 @@ Areas of Interest.
 
 1.  The unison settings, are not operational, I dont know if this is a level stack order issue.
 
-2.  I wonder if there is a way to beef up the voices because the synth is kind of light.
+2.  I wonder if there is a way to beef up the voices because the synth is kind of light, even if changing the unison and detuning.
 
 3.  I would like to add a page for macros to automate certain parameters.
 
@@ -16,10 +16,13 @@ Areas of Interest.
 
 5.  I would like to add a xy pad automatable matrices, using a project from JUCER.
 
+6.  I would like to be able to incorporate semitones for both of the wave generators.
+
+
 Feedback is greatly appreciated. Thanks.
 
 Source files available upon request for educational purposes.
 
-VST 2.  Demo.   Put the folder in your vst2folder and fire up your daw of preference.  Scan for the plugin and fire up and instance of the demo synth.
+VST 2.  Demo.   Put the folder in your vst2folder and fire up your daw of preference.  Scan for the plugin and fire up an instance of the demo synth.
 
 
