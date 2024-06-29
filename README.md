@@ -25,4 +25,6 @@ Source files available upon request for educational purposes.
 
 VST 2.  Demo.   Put the folder in your vst2folder and fire up your daw of preference.  Scan for the plugin and fire up an instance of the demo synth.
 
+efisolfi@gmail.com
+
 
