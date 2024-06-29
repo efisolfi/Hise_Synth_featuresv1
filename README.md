@@ -14,7 +14,7 @@ Areas of Interest.
 
 4.  I would like a tab for an arpeggiator.
 
-5.  I would like to add a xy pad automatable matrices.
+5.  I would like to add a xy pad automatable matrices, using a project from JUCER.
 
 Feedback is greatly appreciated. Thanks.
 
